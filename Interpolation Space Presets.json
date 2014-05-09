@@ -1,0 +1,42 @@
+{
+	"pattrstorage" : 	{
+		"name" : "Presets",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"XSpeed" : [ 2.0 ],
+					"YSpeed" : [ 2.0 ],
+					"averageRadius" : [ 30.0 ],
+					"numAddCircles" : [ 3 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"XSpeed" : [ 10.0 ],
+					"YSpeed" : [ 10.0 ],
+					"averageRadius" : [ 5.0 ],
+					"numAddCircles" : [ 10 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"XSpeed" : [ 6.0 ],
+					"YSpeed" : [ 3.0 ],
+					"averageRadius" : [ 10.0 ],
+					"numAddCircles" : [ 5 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
