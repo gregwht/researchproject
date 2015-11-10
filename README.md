@@ -1,4 +1,6 @@
-researchproject
+Research Project
 ===============
 
-Gregory White 6066402 Research Project MUS-3Z1Y
+Final year research project for BA(Hons) Music Technology at the University of East Anglia.
+
+Topic: A Practical Study on the use of Emergent Behaviours towards the construction of Dynamic Independent Mapping Layers in Processing and Max/MSP.
